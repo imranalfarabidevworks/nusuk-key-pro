@@ -138,3 +138,5 @@ code { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
   .brand small { display: none; }
   .rem { display: none; }
 }
+
+.perm { color: var(--mut); }
